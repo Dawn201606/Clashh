@@ -2,7 +2,7 @@
 原始网站：https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/ttt.js
 *******************************
 [rewrite_local]
-^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)? url script-request-header https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/ttt.js
+^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)? url script-request-header https://raw.githubusercontent.com/Dawn201606/Clashh/refs/heads/main/GVmini.js
 [mitm] 
 hostname = 120play.*.cn,h5play.*.com,long.*.cn
 *******************************/
