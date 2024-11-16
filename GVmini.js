@@ -1,3 +1,4 @@
+/******************************
 [rewrite_local]
 ^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)? url script-request-header https://raw.githubusercontent.com/Dawn201606/Clashh/refs/heads/main/GVmini.js
 [mitm] 
